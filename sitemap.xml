@@ -3,12 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://periva.github.io/categories/</loc>
-    <priority>0</priority>
+    <loc>https://periva.github.io/basics/</loc>
+    <lastmod>2018-10-03T07:06:34-06:00</lastmod>
   </url>
   
   <url>
     <loc>https://periva.github.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://periva.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   

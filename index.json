@@ -1,14 +1,21 @@
 [
 {
-	"uri": "https://periva.github.io/categories/",
-	"title": "Categories",
+	"uri": "https://periva.github.io/basics/",
+	"title": "Basics",
 	"tags": [],
 	"description": "",
-	"content": ""
+	"content": " Chapter 1 The Basics Learn the fundamentals of how LToP works.\n"
 },
 {
 	"uri": "https://periva.github.io/",
-	"title": "Lost Tales of Periva RPG",
+	"title": "",
+	"tags": [],
+	"description": "",
+	"content": " Lost Tales of Periva What is Lost Tales of Periva? Lost Tales of Periva (LToP) is a rules-light fantasy Role-Playing Game set in the World of Periva campaign setting. LToP is designed to be simple to learn without sacrificing depth of play. LToP can be played without miniatures, battle-mats or other expensive accessories. All you need is this book, a complete set of RPG dice, some pencils and paper, and some friends.\nReady to get started? Let\u0026rsquo;s go! "
+},
+{
+	"uri": "https://periva.github.io/categories/",
+	"title": "Categories",
 	"tags": [],
 	"description": "",
 	"content": ""
