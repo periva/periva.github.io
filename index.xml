@@ -6,10 +6,19 @@
     <description>Recent content on Lost Tales of Periva RPG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Oct 2018 07:10:06 -0600</lastBuildDate>
+    <lastBuildDate>Tue, 02 Oct 2018 23:25:49 -0600</lastBuildDate>
     
 	<atom:link href="https://periva.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>What is Lost Tales of Periva?</title>
+      <link>https://periva.github.io/introduction/whatisltop/</link>
+      <pubDate>Tue, 02 Oct 2018 23:25:49 -0600</pubDate>
+      
+      <guid>https://periva.github.io/introduction/whatisltop/</guid>
+      <description>Lost Tales of Periva (LToP) is a rules-light fantasy Role-Playing Game set in the World of Periva campaign setting. LToP is designed to be simple to learn without sacrificing depth of play. LToP can be played without miniatures, battle-mats or other expensive accessories. All you need is this book, a complete set of RPG dice, some pencils and paper, and some friends.</description>
+    </item>
     
     <item>
       <title>Terminology</title>
@@ -19,6 +28,26 @@
       <guid>https://periva.github.io/introduction/terminology/</guid>
       <description>This guide assumes that you already understand the basic concepts of Role-Playing Games. This section is designed to outline the basic terms you&amp;rsquo;ll need to know to play Lost Tales of Periva.
 Game Master The Game Master (GM) is a player designated as the referee of the game, enforcing the rules and making rulings on the various situations that the PCs encounter in their adventures. The GM also decides what happens in the fictional world of the game, acting out the parts of the various NPCs, creatures, and monsters.</description>
+    </item>
+    
+    <item>
+      <title>Thanks</title>
+      <link>https://periva.github.io/thanks/</link>
+      <pubDate>Thu, 04 Oct 2018 02:29:45 -0600</pubDate>
+      
+      <guid>https://periva.github.io/thanks/</guid>
+      <description>We are grateful for the contributions of the following individuals who helped make LToP a reality: Mjolnir620, who provided assistance with feats.</description>
+    </item>
+    
+    <item>
+      <title>Legal Information</title>
+      <link>https://periva.github.io/legal/</link>
+      <pubDate>Wed, 03 Oct 2018 23:13:00 -0600</pubDate>
+      
+      <guid>https://periva.github.io/legal/</guid>
+      <description>Licensing and Distribution Permission to copy, modify and distribute the files collectively known as the Lost Tales of Periva (“LToP”) is granted solely through the use of the Open Gaming License, Version 1.0a.
+This material is being released using the Open Gaming License Version 1.0a and you should read and understand the terms of that license before using this material.
+LToP is based on the System Reference Document v5.1 (“SRD5”), which is Open Game Content.</description>
     </item>
     
   </channel>
