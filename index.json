@@ -14,6 +14,13 @@
 	"content": "Lost Tales of Periva (LToP) is a rules-light fantasy Role-Playing Game set in the World of Periva campaign setting. LToP is designed to be simple to learn without sacrificing depth of play. It can be played without miniatures, battle-mats or other expensive accessories. All you need is this guide, a complete set of RPG dice, some pencils and paper, and some friends.\nIn LToP, you will play as one of the Awakened, an immortal spirit which inhabits the world of Periva. Each character you create and play represents a denizen of Periva which is inhabited by your Awakened spirit. When one character dies or retires, your spirit is transferred to the next character you create, bringing some of its knowledge and experience along with it. In this way, even if your first character dies, the next can continue your saga, and so on.\n"
 },
 {
+	"uri": "https://periva.github.io/charcreation/",
+	"title": "Character Creation",
+	"tags": [],
+	"description": "",
+	"content": " Chapter 2 Character Creation Create a new character for LToP.\n"
+},
+{
 	"uri": "https://periva.github.io/introduction/terminology/",
 	"title": "Terminology",
 	"tags": [],
@@ -26,6 +33,13 @@
 	"tags": [],
 	"description": "",
 	"content": "LToP uses a standard set of RPG dice. There are seven dice in a complete set, ranging from four to twenty sides. They are referred to by the number of sides they possess. For example, a six-sided die is called a d6. If you need to roll three six-sided dice, this will be referred to as 3d6.\nThe standard set includes a d20, d12, d10, d8, d6, and d4. It also includes a special die, called the d100, which looks like a d10 but is numbered from 00 to 90. When paired with a d10, the d100 allows you to make percentile rolls (d%) ranging from 1 to 100. To do this, roll both dice together and add the results. For example, if the d10 shows 7 and the d100 shows 20, the result is 27. If the d10 shows 0 and the d100 shows 00, the result is 100.\nIf the player does not have a d100, they can simply roll a d10 twice. The first roll is the tens place, and the second roll is the ones place. Therefore if they roll a 2 followed by a 7, the result is 27. If both rolls show 0, the result is 100.\nThe d20 is a special die. Nearly every challenge a character faces will be resolved with a roll of the d20, whether attacking an opponent in battle, avoiding traps in a dungeon, or even haggling with a merchant. The d20 will be used more than any other die.\n"
+},
+{
+	"uri": "https://periva.github.io/charcreation/rollabilities/",
+	"title": "Roll Abilities",
+	"tags": [],
+	"description": "",
+	"content": "The first step in character creation is determining Ability scores. You can either roll random scores, or you can randomly assign a standard set of scores.\nTo roll for random Ability scores, follow these two easy steps:\n Roll 3d6 six times, assigning each result to an Ability in the following order: Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma. If the total of the six scores is less than 62, scrap the character and start over.  If you wish to use the standard set, simply assign the following six numbers in a random order: 15, 16, 13, 12, 10, 9.\nOnce you’ve assigned your six Ability scores, regardless of the method, you may swap any two scores with each other.\n"
 },
 {
 	"uri": "https://periva.github.io/thanks/",

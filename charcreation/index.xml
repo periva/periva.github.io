@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Character Creation on Lost Tales of Periva RPG</title>
+    <link>https://periva.github.io/charcreation/</link>
+    <description>Recent content in Character Creation on Lost Tales of Periva RPG</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Oct 2018 01:38:33 -0500</lastBuildDate>
+    
+	<atom:link href="https://periva.github.io/charcreation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Roll Abilities</title>
+      <link>https://periva.github.io/charcreation/rollabilities/</link>
+      <pubDate>Sun, 07 Oct 2018 01:40:14 -0500</pubDate>
+      
+      <guid>https://periva.github.io/charcreation/rollabilities/</guid>
+      <description>The first step in character creation is determining Ability scores. You can either roll random scores, or you can randomly assign a standard set of scores.
+To roll for random Ability scores, follow these two easy steps:
+ Roll 3d6 six times, assigning each result to an Ability in the following order: Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma. If the total of the six scores is less than 62, scrap the character and start over.</description>
+    </item>
+    
+  </channel>
+</rss>
