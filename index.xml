@@ -6,10 +6,21 @@
     <description>Recent content on Lost Tales of Periva RPG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Oct 2018 23:25:49 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 07 Oct 2018 01:40:14 -0500</lastBuildDate>
     
 	<atom:link href="https://periva.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Roll Abilities</title>
+      <link>https://periva.github.io/charcreation/rollabilities/</link>
+      <pubDate>Sun, 07 Oct 2018 01:40:14 -0500</pubDate>
+      
+      <guid>https://periva.github.io/charcreation/rollabilities/</guid>
+      <description>The first step in character creation is determining Ability scores. You can either roll random scores, or you can randomly assign a standard set of scores.
+To roll for random Ability scores, follow these two easy steps:
+ Roll 3d6 six times, assigning each result to an Ability in the following order: Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma. If the total of the six scores is less than 62, scrap the character and start over.</description>
+    </item>
     
     <item>
       <title>What is Lost Tales of Periva?</title>
@@ -39,17 +50,6 @@ Game Master The Game Master (GM) is a player designated as the referee of the ga
       <guid>https://periva.github.io/introduction/usingthedice/</guid>
       <description>LToP uses a standard set of RPG dice. There are seven dice in a complete set, ranging from four to twenty sides. They are referred to by the number of sides they possess. For example, a six-sided die is called a d6. If you need to roll three six-sided dice, this will be referred to as 3d6.
 The standard set includes a d20, d12, d10, d8, d6, and d4. It also includes a special die, called the d100, which looks like a d10 but is numbered from 00 to 90.</description>
-    </item>
-    
-    <item>
-      <title>Roll Abilities</title>
-      <link>https://periva.github.io/charcreation/rollabilities/</link>
-      <pubDate>Sun, 07 Oct 2018 01:40:14 -0500</pubDate>
-      
-      <guid>https://periva.github.io/charcreation/rollabilities/</guid>
-      <description>The first step in character creation is determining Ability scores. You can either roll random scores, or you can randomly assign a standard set of scores.
-To roll for random Ability scores, follow these two easy steps:
- Roll 3d6 six times, assigning each result to an Ability in the following order: Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma. If the total of the six scores is less than 62, scrap the character and start over.</description>
     </item>
     
     <item>
